@@ -1,0 +1,10 @@
+Interfaces\InterfaceInventarioCRUD.class
+ModeloDAO\inventarioDAO.class
+com\mycompany\controlinventario\resources\JavaEE8Resource.class
+Interfaces\interfaceUsuarioCRUD.class
+Controlador\Controlador.class
+Modelo\modeloUsuarios.class
+ModeloDAO\usuariosDAO.class
+Modelo\modeloInventario.class
+com\mycompany\controlinventario\JAXRSConfiguration.class
+Configuracion\ConexionBD.class
